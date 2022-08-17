@@ -15,6 +15,7 @@ public class DependencyInjectionApplication implements CommandLineRunner {
 //	@PostConstruct
 //	public void preInitialize(){
 //		System.out.println("jdbc connection");
+    //
 //	}
 
     public static void main(String[] args) {
